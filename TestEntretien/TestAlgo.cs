@@ -27,6 +27,14 @@ namespace TestEntretien
             
             
         }
+        
+        public static void GroupAnagram()
+        {
+            Console.WriteLine("GroupAnagram start");
+            string[] input = { "reza","eat", "tea", "tan", "ate", "nat", "bat", "bta", "azer" };
+
+           
+        }
 
        
 
