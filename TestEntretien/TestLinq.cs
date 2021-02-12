@@ -16,6 +16,17 @@ namespace TestEntretien
             };
                     
         }
+        public static void Test2()
+        {
+            string input = "aabacccz";
+            /* RESULTAT ATTENDU
+            /*
+            3 : a,c
+            *********
+            1 : b,z
+            */
+            //            
+        }
         public static void MergeIndexAndRemoveDuplicate()
         {
             /* RESULTAT ATTENDU
